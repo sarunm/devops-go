@@ -9,7 +9,7 @@ jobs:
   # ==============
   # CI task
   # ==============
-#  quality-check:
+  quality-check:
 #    name: Quality Scan
 #    runs-on: ubuntu-latest
 #    steps:
